@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn,
+.card,
+.card-header,
+textarea,
+input,
+select,
+#example_previous,
+.page-link,
+trix-editor{
+    border-radius: 0px!important;
+}
+
+.postForm label{
+    font-weight: 600;
+}
+
+[class^='select2'] {
+    border-radius: 0px !important;
+}
+
+.profile_img{
+    width: 40px!important;
+}
+
+.header{
+    padding:0px;
+}
